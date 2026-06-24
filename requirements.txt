@@ -1,0 +1,4 @@
+Django
+psycopg==3.3.4
+gunicorn
+whitenoise
